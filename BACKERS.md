@@ -54,6 +54,7 @@ Below you'll find a list of the wonderful people and organizations that have mad
 * [Lånen.se](https://www.xn--lnen-qoa.se/)
 * [Leon](https://opencollective.com/leon)
 * [Loan Scouter](https://loanscouter.com/)
+* [Refraktiv](https://www.refraktiv.com/)
 * [masonslots](https://masonslots.com/)
 * [Matchbanker](https://matchbanker.es/)
 * [Merchise](http://www.merchise.cl/)
